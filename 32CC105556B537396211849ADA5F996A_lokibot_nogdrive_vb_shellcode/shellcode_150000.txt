@@ -1,0 +1,60 @@
+windir=
+USERPROFILE=
+msvbvm60.dll
+\system32\
+\syswow64\
+\filename1.exe
+\subfolder1
+C:\Users\admin\Desktop\ORDER-IMG2019123114400710592.exe
+AmeNP5
+https://nchikota.cf/sabali.bin
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+wininet.dll
+InternetOpenA
+InternetSetOptionA
+InternetOpenUrlA
+InternetReadFile
+InternetCloseHandle
+NtCreateSection
+NtMapViewOfSection
+NtClose
+NtGetContextThread
+NtSetContextThread
+NtProtectVirtualMemory
+NtAllocateVirtualMemory
+NtWriteVirtualMemory
+NtOpenFile
+NtResumeThread
+NtUnmapViewOfSection
+DbgBreakPoint
+DbgUiRemoteBreakin
+NtSetInformationThread
+kernel32
+LoadLibraryA
+CreateProcessInternalW
+GetLongPathNameW
+TerminateProcess
+CreateThread
+AddVectoredExceptionHandler
+TerminateThread
+CreateFileW
+WriteFile
+GetFileSize
+ReadFile
+CloseHandle
+advapi32
+RegCreateKeyExA
+RegSetValueExA
+user32
+EnumWindows
+Set W = CreateObject("WScript.Shell")
+Set C = W.Exec ("
+Startup key
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+shell32
+SHCreateDirectoryExW
+ShellExecuteW
+PXPXRAPAQARASATAUPXAVPXAWVWSdH
+@ PXH1
+(PXAZI
+[_^A_A^A]A\A[AZAYAXZ

