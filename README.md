@@ -14,3 +14,5 @@ All of them have a couple of strings:
 \subfolder1
 
 Because of that I have set this name for the shellcode (i dont know if this packer has another different name). 
+
+(password for compressed files: infected<name_of_file_without_ext>)
