@@ -1,0 +1,55 @@
+
+Strings v2.2
+Copyright (C) 1999-2005 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+USERPROFILE=
+msvbvm60.dll
+\system32\
+\syswow64\
+\filename.exe
+\directory
+C:\Users\admin\Desktop\sample.exe
+http://axisau.main.jp/core0.bin
+http://myurl/myfile.bin
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+wininet.dll
+InternetOpenA
+InternetSetOptionA
+InternetOpenUrlA
+InternetReadFile
+InternetCloseHandle
+NtCreateSection
+NtMapViewOfSection
+NtGetContextThread
+NtSetContextThread
+NtProtectVirtualMemory
+NtAllocateVirtualMemory
+NtWriteVirtualMemory
+NtOpenFile
+NtResumeThread
+NtUnmapViewOfSection
+DbgBreakPoint
+DbgUiRemoteBreakin
+NtSetInformationThread
+LoadLibraryA
+CreateProcessInternalW
+GetLongPathNameW
+TerminateProcess
+CreateThread
+AddVectoredExceptionHandler
+TerminateThread
+CreateFileW
+GetFileSize
+CloseHandle
+RegCreateKeyExA
+RegSetValueExA
+EnumWindows
+Set W = CreateObject("WScript.Shell")
+Set C = W.Exec ("
+Startup key
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+SHCreateDirectoryExW
+ShellExecuteW
+PXPXRAPAQARASPXATAUAVAWVWSPXdH
+PXPX[_^PXA_A^A]A\A[AZAYAXPXZ
